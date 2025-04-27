@@ -1,16 +1,21 @@
-## Hi there 👋
+---
 
-<!--
-**typokrit/typokrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abenezer Anemaw — aka typokrit
 
-Here are some ideas to get you started:
+> Code. Coffee. Chaos.  
+> Welcome to the typokrit zone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate front-end developer (in training), building clean, responsive websites with HTML, CSS, JavaScript, and Bootstrap — soon diving deeper into React and Tailwind CSS. I love turning ideas into reality and adding my personal twist to every line of code.
+
+### What I'm Working On:
+- A portfolio website to showcase my projects
+- Telegram bot for movie/series recommendations
+- Learning full-stack development (slowly but surely)
+
+### Connect With Me:
+- Email: abenianemaw731@gmail.com
+- Blog (coming soon): Typokrit's World
+- LinkedIn/GitHub: @typokrit
+
+---
+
