@@ -13,6 +13,7 @@ I'm a passionate front-end developer (in training), building clean, responsive w
 ### Connect With Me:
 - Email: abenianemaw731@gmail.com
 - Blog (coming soon): Typokrit's World
-- LinkedIn/GitHub: @typokrit
+- LinkedIn: https://www.linkedin.com/in/abenezer-anemaw-75878820a
+- Github: @typokrit
 
 
