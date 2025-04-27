@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Abenezer Anemaw — aka typokrit
 
 > Code. Coffee. Chaos.  
@@ -17,5 +15,4 @@ I'm a passionate front-end developer (in training), building clean, responsive w
 - Blog (coming soon): Typokrit's World
 - LinkedIn/GitHub: @typokrit
 
----
 
