@@ -11,9 +11,9 @@ I'm a passionate front-end developer (in training), building clean, responsive w
 - Learning full-stack development (slowly but surely)
 
 ### Connect With Me:
-- Email: abenianemaw731@gmail.com
+- Email: typokrit.dev@gmail.com
 - Blog (coming soon): Typokrit's World
-- LinkedIn: https://www.linkedin.com/in/abenezer-anemaw-75878820a
+- LinkedIn: https://www.linkedin.com/in/abenezer-anemaw
 - Github: @typokrit
 
 
