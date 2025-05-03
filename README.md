@@ -1,4 +1,8 @@
-# Hi, I'm Abenezer Anemaw — aka typokrit
+<h1 align="center">Hi there 👋, I'm Abenezer Anemaw -aka typokrit</h1>
+ 
+ <p align="center">
+   <em>Frontend Developer</em>
+ </p>
 
 > Code. Coffee. Chaos.  
 > Welcome to the typokrit zone.
