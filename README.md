@@ -14,6 +14,6 @@ I'm a passionate front-end developer (in training), building clean, responsive w
 - Email: typokrit.dev@gmail.com
 - Blog (coming soon): Typokrit's World
 - LinkedIn: https://www.linkedin.com/in/abenezer-anemaw
-- Github: @typokrit
+
 
 
